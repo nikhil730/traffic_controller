@@ -1,11 +1,7 @@
 `timescale 1ns / 1ps
 
 /*
-    Group Members: Kevin Ingram and Warren Seto
-
-    Lab Name: Traffic Light Controller (Lab 3)
-    Project Name: eng312_proj3
-    Design Name: Traffic_eng312_proj3.v
+    
     Design Description: Verilog Module that uses the following modules to operate: nsCounter, ewCounter, yellowCounter
 */
 
